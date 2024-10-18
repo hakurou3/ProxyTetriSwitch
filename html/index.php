@@ -1,7 +1,7 @@
 <?php
 require_once('getallheaders.php');
 
-const SERVER_HOST = 'example.com';
+const SERVER_HOST = 'hakurou.com';
 const MOVIE_DIRECTORY = 'movies';
 const PASSWORD = '302569db917c44a8bfb3b00267cb927a';
 const DEBUG = false; // ignore password check
